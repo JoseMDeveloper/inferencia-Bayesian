@@ -1,0 +1,7 @@
+P(Asistida|Ligera^Si^Puntual)
+
+P(Asistida|Ligera^Si)
+
+P(Cita|Nada^Atrasado)
+
+probabilidades.xlsx
